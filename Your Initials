@@ -1,0 +1,11 @@
+public class yourInitials {
+  public static void main (String args[]) {
+    System.out.println("M   M    A   W   W");
+    System.out.println("MM MM   A A  W   W");
+    System.out.println("MM MM  A   A W   W");
+    System.out.println("MM MM  AAAAA W   W");
+    System.out.println("M M M  A   A WW WW");
+    System.out.println("M   M  A   A WW WW");
+    System.out.println("M   M  A   A wwwww");
+  }
+}
